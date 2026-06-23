@@ -34,3 +34,15 @@ num_3=rgb[2]
 print(num_1)
 print(num_2)
 print(num_3)
+#mission 9
+coords=(1,2,3,2,1)
+print(coords.count(2))
+print(coords.index(1))
+print(coords.index(3))
+#mission 10
+list_1=[1,2,3]
+set_1={1,2,3,}
+tuple_1=(1,2,3)
+print(list_1)
+print(set_1)
+print(tuple_1)
