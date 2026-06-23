@@ -54,3 +54,6 @@ a={1,2,3}
 b={3,4,5,}
 print(a.issubset(b))
 print(a.issuperset(b))
+#mission 2
+pairs=[(1,"a"),(2,"b"),(3,"c")]
+print(pairs[1][1])
