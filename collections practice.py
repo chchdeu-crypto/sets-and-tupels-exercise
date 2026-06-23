@@ -10,3 +10,9 @@ tags.discard("bash")
 print(tags)
 tags.discard("c+")
 print(tags)
+#mission 4
+a={1,2,3,}
+b={3,4,5,}
+print(a.intersection(b))
+print(a.union(b))
+print(a.difference(b))
