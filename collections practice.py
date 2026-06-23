@@ -57,3 +57,9 @@ print(a.issuperset(b))
 #mission 2
 pairs=[(1,"a"),(2,"b"),(3,"c")]
 print(pairs[1][1])
+#mission 3
+my_list=[1,2,3,1,1,]
+my_set=set(my_list)
+print(my_set)
+my_set=list(my_set)
+print(my_set)
