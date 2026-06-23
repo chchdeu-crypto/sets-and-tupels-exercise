@@ -46,3 +46,11 @@ tuple_1=(1,2,3)
 print(list_1)
 print(set_1)
 print(tuple_1)
+
+
+#part 2
+#mission 1
+a={1,2,3}
+b={3,4,5,}
+print(a.issubset(b))
+print(a.issuperset(b))
