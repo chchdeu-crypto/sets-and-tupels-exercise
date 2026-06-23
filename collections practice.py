@@ -63,3 +63,7 @@ my_set=set(my_list)
 print(my_set)
 my_set=list(my_set)
 print(my_set)
+#mission 4
+x={"chaim","yossi"}
+y={"avi","mor"}
+print(x.symmetric_difference(y))
