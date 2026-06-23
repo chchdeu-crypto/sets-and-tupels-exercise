@@ -67,3 +67,5 @@ print(my_set)
 x={"chaim","yossi"}
 y={"avi","mor"}
 print(x.symmetric_difference(y))
+#mission 5
+#Because only primitive values ​​can be inserted into a set and a list is not a primitive value and a tuple is 
