@@ -16,3 +16,5 @@ b={3,4,5,}
 print(a.intersection(b))
 print(a.union(b))
 print(a.difference(b))
+#mission 5
+print("git" in tags)
