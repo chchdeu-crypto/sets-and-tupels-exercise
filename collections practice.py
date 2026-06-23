@@ -23,3 +23,6 @@ point=(10,20)
 print(point)
 print(point[0])
 print(point[1])
+#mission 7
+#point[0]=99
+#'tuple' object does not support item assignment
