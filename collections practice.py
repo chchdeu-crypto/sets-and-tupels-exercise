@@ -5,3 +5,8 @@ print(len(tags))
 #mission 2
 tags.add("linux")
 print(tags)
+#mission 3
+tags.discard("bash")
+print(tags)
+tags.discard("c+")
+print(tags)
