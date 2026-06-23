@@ -26,3 +26,11 @@ print(point[1])
 #mission 7
 #point[0]=99
 #'tuple' object does not support item assignment
+#mission 8
+rgb=(255,128,0)
+num_1=rgb[0]
+num_2=rgb[1]
+num_3=rgb[2]
+print(num_1)
+print(num_2)
+print(num_3)
