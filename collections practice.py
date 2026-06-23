@@ -18,3 +18,8 @@ print(a.union(b))
 print(a.difference(b))
 #mission 5
 print("git" in tags)
+#mission 6
+point=(10,20)
+print(point)
+print(point[0])
+print(point[1])
